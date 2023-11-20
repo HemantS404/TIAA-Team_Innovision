@@ -1,10 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/jnlewis/waris/master/docs/images/logo.png" width="128" height="128" alt="Waris">
-</p>
-
-# Waris
-Decentralized claimable funds service built on the Stellar Network.
-
 ## Introduction
 Waris aims to promote financial planning and management by making claimable funds self manageable, easy and safe by utilizing the immutability of blockchain networks. Funds created on Waris are stored on the blockchain, and can only be managed by the original creator of the fund.
 
@@ -42,15 +35,3 @@ The use case for such a service include scheduled payments, will writing to leav
 ## Technologies
 * The application is developed in javascript with ReactJs and NextJs framework.
 * The blockchain network used is <a href="https://www.stellar.org/" target="_blank">Stellar</a>.
-
-## Stellar Meridian Hackathon 2020
-* The project will be submitted as a hackathon entry and will implement the <a href="https://developers.stellar.org/docs/glossary/claimable-balance/" target="_blank">Claimable Balance</a> feature on Stellar.
-
-## Live Product Preview
-<a href="https://waris.vercel.app" target="_blank">https://waris.vercel.app</a>
-
-## Why Use a Blockchain?
-The use of a blockchain provides resilience to possible downfalls found on centralized systems such as data loss, company bankruptcy, takeovers, or product discontinuation. It also means that your decision is executed exactly as you want it without inteference of any kind. In other words, your decision is final.
-
-## License
-* Open source <a href="https://github.com/jnlewis/waris/blob/master/LICENSE">MIT</a>
